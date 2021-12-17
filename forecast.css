@@ -1,0 +1,33 @@
+body {
+    background-color: lightblue;
+    width: 100%;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+#select {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#button {
+    margin-left: 1%;
+    color: white;
+    background-color: blue;
+}
+
+.screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px auto;
+}
+
+img {
+   width: 200px;
+   height: 200px;
+}
